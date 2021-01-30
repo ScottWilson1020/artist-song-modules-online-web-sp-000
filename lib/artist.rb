@@ -23,6 +23,7 @@ class Artist
 
 extend Memorable::ClassMethods
 extend Findable
+extend Paramable
  # def self.reset_all
   #  self.all.clear
  # end
