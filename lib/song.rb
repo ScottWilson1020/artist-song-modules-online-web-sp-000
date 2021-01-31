@@ -21,7 +21,7 @@ class Song
 
 extend Memorable::ClassMethods
 extend Findable
-include PARAMABLE 
+include PARAMABLE
  # def self.reset_all
  #   self.all.clear
  # end
